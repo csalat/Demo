@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http.Extensions;
 using Serilog;
 using Serilog.Context;
 
-namespace Demo.Processors
+namespace Demo
 {
     public class SerilogRequestLogger
     {
